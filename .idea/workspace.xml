@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9e7cca7-b005-4aad-bfb9-a0670dd4980d" name="Changes" comment="Ура, ну наконец-то ЧТО-ТО ПОХОЖЕЕ на то что мы делаем в колледже, видимо я еще изучал низкоуровневый аспект в спринге, ибо они сразу пошли на спринг бут, это интересный мув от Леры, но это же не правильно, они не знаю как конфигурировать файлы, типо ну они скипнули и для многих это просто магия... Неприятный осадок, в последнее время он часто появляется этот осадок, доводят меня заразы...">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/FirstSpringBootLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/controllers/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/controllers/PeopleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/models/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/repositories/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/repositories/PeopleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/services/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/services/PeopleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn/util/PersonValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FirstSpringBootLearn/FirstSpringBootLearnApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pfv8uFaoCIgoL7qNGR8WfW6WJ5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/andrey./Desktop/LearnJavaOrSpringFramework/firstAppSpringFramework/FirstSpringBootLearn/src/main/resources/templates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/FirstSpringBootLearn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstSpringBootLearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FirstSpringBootLearn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.FirstSpringBootLearn.FirstSpringBootLearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e7cca7-b005-4aad-bfb9-a0670dd4980d" name="Changes" comment="" />
+      <created>1733169789345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733169789345</updated>
+      <workItem from="1733169790373" duration="5241000" />
+      <workItem from="1733221338831" duration="118000" />
+      <workItem from="1733221510109" duration="1511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
